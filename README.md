@@ -1,4 +1,4 @@
-# Streamlit 🔗 Weaviate
+# Streamlit 🔗 Weaviate experimental connection
 
 This is a simple streamlit application which makes uses of it's experimental connection feature to connect to <a href="https://weaviate.io/" target="_blank">weaviate</a>
  vector store.
